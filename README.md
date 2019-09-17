@@ -28,10 +28,10 @@
 
 
 * githubの勉強
- * copyleft
+ * copyleft･･･公開されたソフトウエアなどについて、利用・再配布・改変の自由を認める思想。
  * キャラの商品がある  
  ![github](photo/github_chara.webp)
- 
+
  * topでhello worldと検索すると、全世界でのたくさんのタイプミスが見つかる。  
  https://github.com/search?q=hello+world  
  気にせず未熟なコードを書き込め！という意味だそう。
