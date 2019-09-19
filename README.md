@@ -131,11 +131,11 @@
 ### 1日目
 * 昼
 
-![1_lunch](photo/1_lunch.jpg)
+![1_lunch](photo/1_lunch.JPG)
 
 * 夜
 ホテルの夜鳴きそば。
-![1_dinner](photo/1_dinner.jpg)
+![1_dinner](photo/1_dinner.JPG)
 
 ### 2日目
 
