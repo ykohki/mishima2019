@@ -49,7 +49,7 @@
 * 8:40発のバスで到着。
 
 * 坊農さんより、いろんな話をお聞きする。  
- * 本の部数は最初、2~3000部数とか。ヒットは累計1万部くらい。
+ * 本の部数について初めて聞いたので驚いた
 
 
 * githubの勉強
@@ -103,6 +103,8 @@
 * 真社会性→[真社会性・・・ハチやアリの社会はすごい](http://www.eonet.ne.jp/~kotetu/Eusociality.htm)
 
 * シルク×パーキンソン病の論文→[Identification of key uric acid synthesis pathway in a unique mutant silkworm Bombyx mori model of Parkinson's disease.](https://www.ncbi.nlm.nih.gov/pubmed/23894418)
+
+* micropython→[MicroPython ガイド](https://microbit.org/ja/guide/python/)
 
 
 
