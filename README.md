@@ -100,6 +100,7 @@
 
 * 寄生蜂。1個の卵が数個～数千個の胚を生じる。ゲノムはn半数体。
  * ソルジャー
+ * 論文⇒[Apoptosis-mediated vasa down-regulation controls developmental transformation in Japanese Copidosoma floridanum female soldiers](https://www.sciencedirect.com/science/article/pii/S0012160619302556?via%3Dihub)
 * 真社会性→[真社会性・・・ハチやアリの社会はすごい](http://www.eonet.ne.jp/~kotetu/Eusociality.htm)
 
 * シルク×パーキンソン病の論文→[Identification of key uric acid synthesis pathway in a unique mutant silkworm Bombyx mori model of Parkinson's disease.](https://www.ncbi.nlm.nih.gov/pubmed/23894418)
@@ -110,7 +111,7 @@
 
 ## 19/09/20 4日目
 
-
+* PubMedにのるのは、出版されてから3〜4日程度かかる！誰かがやってくれているから。世の中そんなに便利じゃない。
 
 
 
