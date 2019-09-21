@@ -1,6 +1,11 @@
 # mishima2019
 
+
 ## mishima.syk#14のスライドは[こちら](https://drive.google.com/open?id=1ytNCDf2zXPHaDovfGSJ8fPklwZiga3kx)
+
+
+## GithubPagesで今回のまとめを作ってみました。→[こちら](https://ykohki.github.io/mishima2019/)
+
 
 ## 進んだこと
 
