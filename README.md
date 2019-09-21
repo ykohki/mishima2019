@@ -215,7 +215,12 @@
  * 趣味で発酵食品の作成
  * scRNA-seq
  * クラスタリング：細胞型を特定することの大変さ。  
- 論文にはすごい色たくさんの図が。。。→manualでつけた
+ 論文にはすごい色たくさんの図が。。。→manualでつけた。
+ 現場の泥臭さが反映されていない。
+ * scTGIFを作った！→[scTGIF](https://github.com/rikenbit/scTGIF)
+ * 細胞を関連する遺伝子名ではなく、遺伝子機能に結びつける。
+ * attention mechanism（deep learning）
+ * Rで、Bioconductorに登録したいときは→[Contribute Packages to Bioconductor](https://github.com/Bioconductor/Contributions)にissueをたてる。
 
 * NOISeqを高速化した改造版が、metaSeq。[metaSeq: RNA-seqデータにおけるメタアナリシス解析パッケージ](https://www.slideshare.net/antiplastics/metaseq)
 
