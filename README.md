@@ -229,6 +229,9 @@
 * LT-角崎太郎さん
 * CWLについて。
 
+* WebからKNIMEを使う話
+ * スライド→https://github.com/kochi0603/mishima14/blob/master/20190209_mishima_syk_flask.pdf ,https://github.com/kochi0603/mishima14/blob/master/KNIME_batch_mode_20190921_kochi.pdf
+
 ## 19/09/22 6日目
 
 
