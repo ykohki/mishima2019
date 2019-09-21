@@ -205,6 +205,19 @@
  * Jupyterでプレゼンができるっぽい→（参考：[【Day-5】Jupyterでできる！イケてるプレゼンスライドの作り方](https://www.procrasist.com/entry/5-jupyter-slide)  
  [Jupyter Notebookでプレゼンをするとっても便利な方法](https://qiita.com/cvusk/items/d425751ba663dc8c6517)）
 
+ * AIrflow＝ワークフローエンジンと言われるツールの一種で、 複数のタスクの実行順序を定義するワークフローの作成、実行のスケジューリング、監視などを行うことができる。（参考：[初めて触るAirflow](https://dev.classmethod.jp/tool/airflow-getting-started/)）
+ * Airflowのチュートリアルビデオ→[Airflow tutorial 1: Introduction to Apache Airflow](https://www.youtube.com/watch?v=AHMm1wfGuHE)  
+ドキュメント→https://airflow.apache.org/tutorial.html
+
+* ④ 露崎さん[@antiplastics](https://twitter.com/antiplastics?ref_src=twsrc%5Egoogle%7Ctwcamp%5Eserp%7Ctwgr%5Eauthor)  
+1細胞オミックス解析の新GSEA手法
+ * 理研基礎科学特別研究員、JSTさきがけ研究員。
+ * 趣味で発酵食品の作成
+ * scRNA-seq
+ * クラスタリング：細胞型を特定することの大変さ。  
+ 論文にはすごい色たくさんの図が。。。→manualでつけた
+
+* NOISeqを高速化した改造版が、metaSeq。[metaSeq: RNA-seqデータにおけるメタアナリシス解析パッケージ](https://www.slideshare.net/antiplastics/metaseq)
 
 ## 19/09/22 6日目
 
