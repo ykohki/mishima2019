@@ -171,7 +171,15 @@
  メモ
  * SNP chip
  * gnomAD browser  
- ![genomAD browser](photo/genomADbrowser_foxp3.png)   
+ ![genomAD browser](photo/genomADbrowser_foxp3.png)
+ * 専門医向けの講義。
+ * COI Disclosure information → no financial
+ * logistics of DB→DBのソムリエ。高速を潤滑にする役割。
+ * Refex⇒GTEx
+ * ChIP Atlas
+ * DBCLS SRA･･･APIでJSONからwgetもできる。
+   * エラスティックサーチ。
+ * metascape
 
 ## 19/09/21 5日目
 
@@ -221,11 +229,15 @@
  * 細胞を関連する遺伝子名ではなく、遺伝子機能に結びつける。
  * attention mechanism（deep learning）
  * Rで、Bioconductorに登録したいときは→[Contribute Packages to Bioconductor](https://github.com/Bioconductor/Contributions)にissueをたてる。
+ * Bioconductorで作ったツールをhexagon（六角形）のデザインにして、オーストラリアの形にしたのがすごい。⇒[useR! 2018 feature wall](https://blog.mitchelloharawild.com/blog/user-2018-feature-wall/)
+ 
+ ![bioconductor](photo/bioconductor.JPG)
+
 
 * NOISeqを高速化した改造版が、metaSeq。[metaSeq: RNA-seqデータにおけるメタアナリシス解析パッケージ](https://www.slideshare.net/antiplastics/metaseq)
 
  * PyCon＝Pythonのmeeting。[PyCon JP2019](https://pycon.jp/2019/)
- 
+
 * LT-角崎太郎さん
 * CWLについて。
 
@@ -234,6 +246,7 @@
 
 ## 19/09/22 6日目
 
+* 少し観光して大阪に帰ります。
 
 ## お食事日記
 
@@ -242,23 +255,31 @@
  近くのラーメン屋にて。
 
 ### 1日目
-* 昼
-
-![1_lunch](photo/1_lunch.JPG)
+* 昼 しんちゃん</br>
+<img src="photo/1_lunch.JPG" width="600">
 
 * 夜
-ホテルの夜鳴きそば。
-![1_dinner](photo/1_dinner.JPG)
+ホテルの夜鳴きそば。</br>
+<img src="photo/1_dinner.JPG" width="600">
 
 ### 2日目
+* 昼</br>
+<img src="photo/2_lunch.JPG" width="600">
 
+* 夜　ウェンディーズ（チェーン店！）</br>
+<img src="photo/2_dinner.JPG" width="600">
 
 ### 3日目
-
+* 夜 わさ屋</br>
+<img src="photo/3_dinner.JPG" width="600">
 
 ### 4日目
-
+* 昼　もかすけ、えびとんこつつけ麺</br>
+<img src="photo/4_lunch.JPG" width="600">
 
 ### 5日目
+* 昼　磯はる食道＠沼津</br>
+<img src="photo/5_lunch.JPG" width="600">
 
-### 6日目
+* 夜　千楽 北口店</br>
+<img src="photo/5_dinner.JPG" width="600">
