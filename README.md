@@ -98,7 +98,11 @@
 * BS-seqも大きく変わる？
  * 今の技術は周りくどい。直接メチル化シトシンが読めればいい！  
  nanoporeの仕組み（電位差を読む）で、「メチル化シトシン」が読み取れればいけるのでは？あとは精度の問題か。
-
+ * issue#1より追記  
+ >すでにDNA methylationをNanoporeで読む技術はかなり確立。  
+https://academic.oup.com/nar/article/47/8/e46/5356940  
+Direct RNA sequencingによるfull length sequenceやm6AなどのRNA modificationも難しいけど可能なよう。  
+https://www.nature.com/articles/s41467-019-11713-9  
 * RNA-seqも進歩の余地あり。
  * 今はcDNAに逆転写してるが、RNAの中にcDNAになりにくいものも。RNAを直接読みたい。nanopore？
 
@@ -172,6 +176,9 @@
  * SNP chip
  * gnomAD browser  
  ![genomAD browser](photo/genomADbrowser_foxp3.png)
+  * gnomAD⇒ノックアウトのヒト版(ALDH2とか)、遺伝的な変異。
+ * TOGOVAR＝gnomADの日本版。日本のデータ見るなら。
+  * TOMMO(東北メディカル・メガバンク)、HGVD。
  * 専門医向けの講義。
  * COI Disclosure information → no financial
  * logistics of DB→DBのソムリエ。高速を潤滑にする役割。
@@ -180,6 +187,14 @@
  * DBCLS SRA･･･APIでJSONからwgetもできる。
    * エラスティックサーチ。
  * metascape
+  * variant⇒somastic（体細胞変異）
+ * UCSC genome browser⇒COSMICタブあり。
+ * GWAS-catalog
+  * HBB→rs334(鎌状赤血球)
+* TCGA
+ * BRAF V600E（600番目のバリンが変化している）
+ * slid→切片も見れる。
+ * 資料は、cartに入れる→downloadできる。
 
 ## 19/09/21 5日目
 
@@ -230,7 +245,7 @@
  * attention mechanism（deep learning）
  * Rで、Bioconductorに登録したいときは→[Contribute Packages to Bioconductor](https://github.com/Bioconductor/Contributions)にissueをたてる。
  * Bioconductorで作ったツールをhexagon（六角形）のデザインにして、オーストラリアの形にしたのがすごい。⇒[useR! 2018 feature wall](https://blog.mitchelloharawild.com/blog/user-2018-feature-wall/)
- 
+
  ![bioconductor](photo/bioconductor.JPG)
 
 
