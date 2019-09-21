@@ -224,6 +224,11 @@
 
 * NOISeqを高速化した改造版が、metaSeq。[metaSeq: RNA-seqデータにおけるメタアナリシス解析パッケージ](https://www.slideshare.net/antiplastics/metaseq)
 
+ * PyCon＝Pythonのmeeting。[PyCon JP2019](https://pycon.jp/2019/)
+ 
+* LT-角崎太郎さん
+* CWLについて。
+
 ## 19/09/22 6日目
 
 
