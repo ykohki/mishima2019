@@ -36,9 +36,10 @@
  * leafcutterの実行
  * travis ciの並列化
  * coverallsをつける
+ * プレゼン作成
 
 ### 5日目
-
+ * mishima.syk#14の参加、発表
 
 
 ## 学んだことのまとめ
@@ -153,8 +154,10 @@
  メモ
  * a.k.a･･･also known as、またの名を。
  * Allie･･･[CWL](http://allie.dbcls.jp/short/exact/Any/CWL.html)
- * CWLの使われている例→https://gitpitch.com/bonohu/slides?p=190921mishimasyk14#/3/3
+ * CWLの使われている例→https://gitpitch.com/bonohu/slides?p=190921mishimasyk14#/3/3  
+ NCBIの例→PGAP[NCBI Prokaryotic Genome Annotation Pipeline](https://github.com/ncbi/pgap)
  * Common Workflow Language Viewer→例）https://github.com/dbcls/AOE/blob/master/gethoge-and-pigz.cwl
+ * kallisto bustools→https://www.kallistobus.tools/about
  * ええとこ
   * 個別のプログラムインストール不要。Dockerとcwltoolが入っていればいい
   * いろんなサーバーでメタ解析とかできる。
@@ -176,8 +179,8 @@
 
 * Mishima.syk#14に参加する。[conpass](https://connpass.com/event/137642/)
 
- * ①KNIME @PK（[@t_kahi](https://twitter.com/t_kahi?lang=ja)）
-  * in vitroの創薬
+* ①KNIME @PK（[@t_kahi](https://twitter.com/t_kahi?lang=ja)）
+ * in vitroの創薬
   * KNIME analytics platform ⇒GUI [KNIME Analytics Platform とは？](https://service.infocom.co.jp/knime/)
   * ケモインフォでよく使われる。
   * 中でRが使える。
@@ -186,7 +189,17 @@
   * High Content Screening(HCS)とは，何千もの化合物やsiRNAライブラリーを処理した細胞内の生理活性を測定することができる自動顕微鏡スクリーニング技術のこと。  
   細胞や細胞内のオルガネラ，タンパク質などを複数の蛍光物質で染色をし測定することからhigh contentと呼ばれています．  
   [【HCS】High Content ScreeningとCellProfilerについて](https://www.t-kahi.com/entry/2018/12/25/222120)より。
-  *
+
+  * ソフトは、condaとかでインストールできても、ライセンスがfreeじゃないときもある。
+  * バイオインフォ系、統合TVもサポートしてた。→Galaxyだけが残った→その後、今はCWL。
+
+* ② 大川さん([@fmkz___](https://twitter.com/fmkz___))
+ * ケモ、バイオインフォ。
+ * データサイエンティスト→ドメイン、ITスキル、統計処理能力が必要。  
+ 2種類存在、①まずドメインがある→プログラミング（創薬ではこっちが重視）、②IT→ドメインか。
+ * udemyではデータサイエンティストにはなれない。汚いデータを前処理して、統計処理にもっていけることが必要。
+ * KNWF･･･拡張子。
+
 
 ## 19/09/22 6日目
 
