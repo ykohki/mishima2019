@@ -1,5 +1,7 @@
 # mishima2019
 
+## mishima.syk#14のスライドは[こちら](https://drive.google.com/open?id=1ytNCDf2zXPHaDovfGSJ8fPklwZiga3kx)
+
 ## 進んだこと
 
 ### 0日目
@@ -48,6 +50,9 @@
 
 富士山きれい！
 ![huzi](photo/DSC_3685.JPG)
+
+* 三島駅の南北連絡通路がない。。。  
+[三島駅の南北通り抜け](http://www.zkaiblog.com/httk/27937)
 
 * Markdownの記法を学ぶ  
 参考：[Git Hubにて使用する簡単なMarkdown記法まとめ](https://qiita.com/do7be/items/d21405a3d243dde37f92)  
@@ -134,13 +139,49 @@
 * しいたけキャッチャー
 * [ベアードビール](https://bairdbeer.com/ja/)
 
+* 坊農さんより、明日のsykの発表のダイジェストを一足先に聞かせて頂く。
+ * 坊農さんのスライド→https://github.com/bonohu/slides
+ * git pitch、おもしろい！  
+ だが、もうすぐ有償化するらしい。。。  
+ https://gitpitch.com/bonohu/slides?p=190921mishimasyk14#/
+
+ メモ
+ * a.k.a･･･also known as、またの名を。
+ * Allie･･･[CWL](http://allie.dbcls.jp/short/exact/Any/CWL.html)
+ * CWLの使われている例→https://gitpitch.com/bonohu/slides?p=190921mishimasyk14#/3/3
+ * Common Workflow Language Viewer→例）https://github.com/dbcls/AOE/blob/master/gethoge-and-pigz.cwl
+ * ええとこ
+  * 個別のプログラムインストール不要。Dockerとcwltoolが入っていればいい
+  * いろんなサーバーでメタ解析とかできる。
+ * あかんとこ
+  * コンテナサイズが巨大。
+  * メモリが多く必要。プロセスのメモリ＋Dockerのメモリが必要。
+ * ハッシュタグ #CommonWL
+ * 本→生命科学者のためのDr.Bonoデータ解析実践道場
+
+* 癌学会も。  
+ メモ
+ * SNP chip
+ * gnomAD browser  
+ ![genomAD browser](photo/genomADbrowser_foxp3.png)   
 
 ## 19/09/21 5日目
 
+* 沼津港を訪れる。
 
+* Mishima.syk#14に参加する。[conpass](https://connpass.com/event/137642/)
 
-
-
+ * ①KNIME @PK（[@t_kahi](https://twitter.com/t_kahi?lang=ja)）
+  * in vitroの創薬
+  * KNIME analytics platform ⇒GUI [KNIME Analytics Platform とは？](https://service.infocom.co.jp/knime/)
+  * ケモインフォでよく使われる。
+  * 中でRが使える。
+  * random forestとか機械学習も。
+  * cellProfiler(HCSのスタンダート、フリーソフト)を使った、high content analysis(high content screening)
+  * High Content Screening(HCS)とは，何千もの化合物やsiRNAライブラリーを処理した細胞内の生理活性を測定することができる自動顕微鏡スクリーニング技術のこと。  
+  細胞や細胞内のオルガネラ，タンパク質などを複数の蛍光物質で染色をし測定することからhigh contentと呼ばれています．  
+  [【HCS】High Content ScreeningとCellProfilerについて](https://www.t-kahi.com/entry/2018/12/25/222120)より。
+  *
 
 ## 19/09/22 6日目
 
