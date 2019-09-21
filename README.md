@@ -199,6 +199,11 @@
  2種類存在、①まずドメインがある→プログラミング（創薬ではこっちが重視）、②IT→ドメインか。
  * udemyではデータサイエンティストにはなれない。汚いデータを前処理して、統計処理にもっていけることが必要。
  * KNWF･･･拡張子。
+* ③ ([@iwatobipen](https://twitter.com/iwatobipen?ref_src=twsrc%5Egoogle%7Ctwcamp%5Eserp%7Ctwgr%5Eauthor))
+ * Airflow
+ * Luigiではない。
+ * Jupyterでプレゼンができるっぽい→（参考：[【Day-5】Jupyterでできる！イケてるプレゼンスライドの作り方](https://www.procrasist.com/entry/5-jupyter-slide)  
+ [Jupyter Notebookでプレゼンをするとっても便利な方法](https://qiita.com/cvusk/items/d425751ba663dc8c6517)）
 
 
 ## 19/09/22 6日目
