@@ -1,4 +1,4 @@
-# mishima2019
+f# mishima2019
 
 
 ## mishima.syk#14のスライドは[こちら](https://drive.google.com/open?id=1ytNCDf2zXPHaDovfGSJ8fPklwZiga3kx)
@@ -285,7 +285,7 @@ https://www.nature.com/articles/s41467-019-11713-9
 <img src="photo/2_dinner.JPG" width="600">
 
 ### 3日目
-* 夜 わさ屋</br>
+* 夜 しおや</br>
 <img src="photo/3_dinner.JPG" width="600">
 
 ### 4日目
@@ -293,7 +293,7 @@ https://www.nature.com/articles/s41467-019-11713-9
 <img src="photo/4_lunch.JPG" width="600">
 
 ### 5日目
-* 昼　磯はる食道＠沼津</br>
+* 昼　磯はる食堂＠沼津</br>
 <img src="photo/5_lunch.JPG" width="600">
 
 * 夜　千楽 北口店</br>
